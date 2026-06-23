@@ -1,3 +1,6 @@
+/* * {
+    outline: 1px solid red !important;
+} */
 body {
     height: 100vh;
     display: flex;
@@ -65,7 +68,7 @@ a:active {color:#0000FF;}
 
 
 .hero {
-    font-size: 48px;
+    font-size: 36px;
     color: #F9FAF8;
     font-weight: bolder;
 }
@@ -192,7 +195,7 @@ a:active {color:#0000FF;}
 
 
 .profile{
-    margin: 40px;
+    margin: 10px;
     border-radius: 35px;
     max-width: 100%;
     
@@ -221,8 +224,8 @@ a:active {color:#0000FF;}
 
 .person {
     font-weight: bold;
-    padding-left: 275px;
-    padding-right: 275px;
+    padding-left: 175px;
+    padding-right: 175px;
     padding-bottom: 60px;
     text-align: right;
     font-size: 18px;
@@ -234,7 +237,17 @@ a:active {color:#0000FF;}
 
 .badminton-article {
     width: 70vw;
-    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.italki-chart {
+    width: 50vw;
+    margin-top: 10px;
+}
+
+.stream-lit-app {
+    width: 25vw;
+    margin-top: 10px;
 }
 
 .experience {
