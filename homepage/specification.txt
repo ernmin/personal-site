@@ -1,0 +1,23 @@
+HTML Tags
+1. <div>
+2. <script>
+3. <ul>
+4. <li>
+5. <a>
+6. <svg>
+7. <img>
+8. <h5>
+9. <h6>
+10. <blockquote>
+11. <strong>
+12. <h4>
+
+CSS Properties
+1. display
+2. padding
+3. width
+4. text-align
+5. margin
+
+Bootstrap is used in the hover effect of the main page icons, the SVG image of the home icon in the header, the shadows behind the images, the table and the progress bars.
+Javascript is used to shuffle the icons in the homepage.
